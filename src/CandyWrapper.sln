@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandyWrapper", "CandyWrapper\CandyWrapper.csproj", "{09B8988A-5DEF-451C-8675-7C59B125624A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandyWrapperTests", "CandyWrapperTests\CandyWrapperTests.csproj", "{3ED1A7AE-6FA2-4973-9C74-86DC71661693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09B8988A-5DEF-451C-8675-7C59B125624A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B8988A-5DEF-451C-8675-7C59B125624A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B8988A-5DEF-451C-8675-7C59B125624A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B8988A-5DEF-451C-8675-7C59B125624A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED1A7AE-6FA2-4973-9C74-86DC71661693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED1A7AE-6FA2-4973-9C74-86DC71661693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED1A7AE-6FA2-4973-9C74-86DC71661693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED1A7AE-6FA2-4973-9C74-86DC71661693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
